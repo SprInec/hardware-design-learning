@@ -1,4 +1,7 @@
-# HDLearing
+<div align="center">
+	<h1>Hardware Design Learning</h1>
+</div>
+
 硬件设计学习
 
 > 参考：[凡亿教育-硬件工程师完全零基础入门教程]()
